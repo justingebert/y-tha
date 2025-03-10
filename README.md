@@ -5,12 +5,13 @@
 2. NPM installed on your machine (https://www.npmjs.com/get-npm)
 
 
+## Steps
 1. Clone the repository
 2. Run the following command in the terminal
 ```bash
 npm install
 ```
-3. Run the following command in the terminal
+3. Then run the following command in the terminal
 ```bash
 npm run dev
 ```
